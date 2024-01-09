@@ -2,3 +2,5 @@
 .next
 dst
 node_modules
+/data
+/nd_pyramid
